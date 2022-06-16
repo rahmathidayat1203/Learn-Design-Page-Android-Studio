@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">financeAppDesain</string>
     <string name="inputPassword">Input Your Password</string>
+    <string name="page_title">dashboard</string>
+    <string name="favorite">favorite</string>
+    <string name="content_description_favorite">favorite</string>
+    <string name="search">search</string>
+    <string name="content_description_search">search</string>
+    <string name="more">more</string>
+    <string name="content_description_more">more</string>
 </resources>
